@@ -1,5 +1,6 @@
 
 <div align="center">
+  <h2> Hello, I'm a frontend developer 👩🏻‍💻 </h2>
   <h3>🛠 Skill 🛠</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
