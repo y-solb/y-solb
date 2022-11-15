@@ -31,8 +31,8 @@
     <a href="https://sollogging.tistory.com/">
       <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/>
     </a>
-     <a href="https://shining-bush-931.notion.site/cd4ad8db3205458e82be7c72423a88f7">
+<!--      <a href="https://shining-bush-931.notion.site/cd4ad8db3205458e82be7c72423a88f7">
       <img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=heart&logoColor=white"/>
-    </a>
+    </a> -->
   </div>
 </div>
