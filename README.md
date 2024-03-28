@@ -10,13 +10,13 @@
     </div>  
   <div align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<!--       <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=ReduxSaga&logoColor=white"/> -->
+      <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=Redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
   </div>  
   <div align="center">
       <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=PostCSS&logoColor=white"/>
   </div>
   <div align="center">
       <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
